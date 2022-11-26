@@ -1,0 +1,8 @@
+Private,非政府工作,*
+Self-emp-not-inc,非政府工作,*
+Self-emp-inc,非政府工作,*
+Federal-gov,政府工作,*
+Local-gov,政府工作,*
+State-gov,政府工作,*
+Without-pay,无业,*
+Never-worked,无业,*
